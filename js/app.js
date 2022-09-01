@@ -1,4 +1,4 @@
-let arr = [];
+const arr = [];
 
 const loadProducts = (url) => {
    fetch(url)
